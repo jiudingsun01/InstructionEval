@@ -79,16 +79,3 @@ To check the config_dir and input_dir for each dataset, please refers to dirs.js
 
 We publish the instructions and results reported in our paper.
 
-## Citation
-
-To cite our paper, please use the following BibTex:
-
-'''
-@article{sun2023evaluating,
-  title={Evaluating the Zero-shot Robustness of Instruction-tuned Language Models},
-  author={Sun, Jiuding and Shaib, Chantal and Wallace, Byron C},
-  journal={arXiv preprint arXiv:2306.11270},
-  year={2023}
-}
-'''
-
