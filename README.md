@@ -29,7 +29,7 @@ We save the results disaggregated to the performance of each instruction under t
 
 ## Evaluation
 
-Please refer to instructions.json for the list of all the available task_name and instructions.
+Please refer to [instructions.json](instructions.json) for the list of all the available task_name and instructions.
 
 ### Reproduce
 To reproduce the results we reported in the paper, you may use the [main.py](main.py) file directly to process and run the dataset with the instruction template you specify. 
@@ -73,7 +73,7 @@ dataset = config.load_data(
 )
 ```
 
-To check the config_dir and input_dir for each dataset, please refers to dirs.json
+To check the config_dir and input_dir for each dataset, please refers to [dirs.json](dirs.json)
 
 ## News
 
