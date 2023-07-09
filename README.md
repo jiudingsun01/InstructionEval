@@ -2,6 +2,8 @@
 
 This is the repo for our preprint paper [Evaluating the Zero-shot Robustness of Instruction-tuned Language Models](https://arxiv.org/abs/2306.11270).  
 
+![alt text](fig.pdf)
+
 ## Resources
 
 We evaluate the zero-shot O.O.D. robustness of instructions of the instruction-following LLMs tuned with the [Flan](https://github.com/google-research/FLAN) collection and [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) collection. 
