@@ -2,7 +2,7 @@
 
 This is the repo for our preprint paper [Evaluating the Zero-shot Robustness of Instruction-tuned Language Models](https://arxiv.org/abs/2306.11270).  
 
-![alt text](fig.pdf "Title")
+![alt text](fig.png "Main Fig")
 
 ## Resources
 
